@@ -11,7 +11,6 @@ ff00::0 ip6-mcastprefix
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
-
 211.152.128.122 .weiyun.com
 211.152.128.122 .myapp.com
 211.152.128.122 .qmail.com
@@ -47,7 +46,6 @@ ff02::3 ip6-allhosts
 211.152.128.122 ns2.qq.com
 211.152.128.122 ns3.qq.com
 211.152.128.122 ns4.qq.com
-
 211.152.128.122 sg.tdm.qq.com
 211.152.128.122 receiver.sg.tdm.qq.com
 211.152.128.122 idcconfig.gcloud.qq.com
